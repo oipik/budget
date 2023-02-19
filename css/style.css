@@ -1,0 +1,66 @@
+h1, h2{
+   text-align: center;
+}
+/* input{
+   display: block;
+} */
+/* .out2{
+   width: 100px;
+   height: 100px;
+   border: 1px solid red;
+} */
+/* .weather{
+   margin-top: 100px;
+}
+.container{
+   margin: 0 auto;
+}
+.out, .out2{
+   margin-top: 20px;
+   width: 100px;
+   height: 100px;
+   border: 2px solid red;
+}
+.hide {
+   display: none;
+} */
+
+
+
+.container  {
+   width: 100%;
+}
+section {
+   margin-bottom: 15px;
+   padding-bottom: 15px;
+   border-bottom: 1px dashed #444;
+}
+.block {
+   width: 75px;
+   height: 75px;
+   margin: 25px;
+   border: 2px solid #333;
+}
+.active {
+   background: orange;
+}
+.hide {
+   display: none;
+}
+.img-12-min {
+   width: 64px;
+}
+.img-12-max {
+   width: 128px;    border: 3px solid #fff;
+
+}
+.active-img {
+   border: 3px solid red;
+}
+.textarea{
+   width: 400px;
+   height: 200px;
+   display: block;
+   margin-bottom: 10px;
+}
+
